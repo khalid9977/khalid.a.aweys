@@ -5,6 +5,6 @@
 - 📫 How to reach me? khalid.a.aweys@gmail.com
 
 <!---
-khalid9977/khalid9977 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+khalid.a.aweys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
